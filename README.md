@@ -9,7 +9,7 @@ I am a student of Computer Science in Cracow. Presently I focus on creating my o
 * 🌍  I'm based in Cracow
 * ✉️  You can contact me at [kobialka.kontakt@gmail.com](mailto:kobialka.kontakt@gmail.com)
 * 🚀  I'm currently working on [ChaterApp](http://github.com/JKob207/chaterApp)
-* 🧠  I'm learning Redux, Jest
+* 🧠  I'm learning Redux, Jest, Docker
 * 🤝  I'm open to collaborating on interesting web projects
 * ⚡  I have a lizard called Gekon 🦎
 
